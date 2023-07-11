@@ -1,0 +1,32 @@
+.flex{
+    background-color:aliceblue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 600px;
+}
+
+.crocs01{
+    width: 300px;
+}
+
+.crocs02{
+    width: 300px;
+}
+
+.crocs03{
+    width: 300px;
+}
+
+.crocs04{
+    width: 300px;
+}
+
+.crocs05{
+    width: 300px;
+}
+
+.crocs06{
+    width: 300px;
+}
